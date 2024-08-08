@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[내 홈페이지](https://Yujh3377.github/io/index.html)
+[내 홈페이지](https://Yujh3377.github.io.index.html)
 
 <!--
 **Yujh3377/Yujh3377** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
